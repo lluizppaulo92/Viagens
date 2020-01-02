@@ -1,2 +1,2 @@
 # Viagens
-App que aprensenta a utilização de ConstraintLayout
+App tem como foco a utilização de ConstraintLayout
